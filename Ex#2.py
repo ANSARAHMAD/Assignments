@@ -44,8 +44,8 @@ first='100'
 second='110'
 print(first+second)
 
-first= 'fasih'
-second= 'ahmed'
+first= 'Ansar'
+second= 'Ahmad'
 print(first+second)
 
 first= 'test'
